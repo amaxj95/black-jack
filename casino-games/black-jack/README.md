@@ -18,7 +18,7 @@ In this tutorial, we'll cover bug fixes and learn more about implementing fintec
 ### Restart button
 
 Start by opening index.html in your favorite editor. Then Simply add the following around line 23:<br>
->> <button id="restart" onClick="window.location.reload();">Restart</button>
+>> ### <button id="restart" onClick="window.location.reload();">Restart</button>
 
 Next open blackjack.css and add styling.
 
